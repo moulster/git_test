@@ -20,3 +20,6 @@ git status is read as git | status | (no destination).
 
 How To make a commit
 But a well-cared for log is a beautiful and useful thing. git blame, revert, rebase, log, shortlog and other subcommands come to life.
+First save the file, do git add <name of the file>
+Then git push to upload the changes
+And finally, <git commit m"msg here"> to commit whatever needs to be commited
